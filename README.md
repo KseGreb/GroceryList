@@ -8,14 +8,16 @@
     It will help you to save time, money, and help make your next shopping trip stress-free!
 
   </p>
-  <img src="BucketList.png" />
+
+<video src="https://github.com/KseGreb/GroceryList/assets/110953599/6966bb63-d5aa-437a-8b3d-12e011c7b1fa"/>
+
 </div>
 
 
 
 
 
-<!-- ABOUT THE PROJECT -->
+ ABOUT THE PROJECT 
 ## About The Project
 
 ### REASONS WHY YOU SHOULD USE SHOPPING LISTS  ###  
