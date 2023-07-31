@@ -44,7 +44,6 @@
 
 <!-- GETTING STARTED -->
 
-
 ## ⏲️ Run project
 
 In the project directory, you can run:
